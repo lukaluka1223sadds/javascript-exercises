@@ -19,6 +19,5 @@ Object.defineProperties(person,{
 
 
 person.rate=27
-person.get()
 console.log(person.salary)
 
